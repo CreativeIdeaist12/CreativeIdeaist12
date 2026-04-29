@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CreativeIdeaist12
-- 👀 I’m interested in Computer Science and Advanced Technology
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in VLSI, Game Development and Advanced Technology
+- 🌱 I’m currently learning Electronics Engineering and VLSI
 - 💞️ I’m looking to collaborate on Game development and AI integration in hardware.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like collaborations on various topics, and further more in my aligned interests
 
 <!---
 CreativeIdeaist12/CreativeIdeaist12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
